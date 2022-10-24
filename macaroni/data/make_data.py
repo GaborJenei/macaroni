@@ -4,7 +4,6 @@ import requests as re
 from bs4 import BeautifulSoup
 from google_currency import convert, CODES
 import json
-import warnings
 
 
 def decompose_name(name: str, name_titles=None):
