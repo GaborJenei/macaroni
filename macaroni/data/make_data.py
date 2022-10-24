@@ -176,3 +176,5 @@ def get_currency_rates(currencies):
             conversion_rate[currency] = pd.NA
 
     return currencies.map(conversion_rate)
+
+# TODO: Add function combining the ETL process end to end.
