@@ -1,0 +1,9 @@
+============================= test session starts ==============================
+platform linux -- Python 3.10.6, pytest-7.1.3, pluggy-1.0.0
+rootdir: /mnt/05505a65-2708-48db-b031-548f63df0e2e/Projects/01_Projects/lloyds-assignment/Assignment/tests
+plugins: anyio-3.6.2
+collected 3 items
+
+test_macaroni.py ...                                                     [100%]
+
+============================== 3 passed in 0.29s ===============================
